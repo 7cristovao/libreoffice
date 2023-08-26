@@ -1,5 +1,9 @@
 # libreoffice
 
+Comando para instalar o plugin no LibreOffice:
+
+$ sudo apt install libreoffice-script-provider-js libreoffice-script-provider-python libreoffice-script-provider-bsh
+
 Caminhos para acessar os arquivos:
 
 Linux:
