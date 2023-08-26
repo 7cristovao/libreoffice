@@ -15,3 +15,4 @@ Linux:
 Windows:
 
 C:\Program Files\LibreOffice\Share\scripts\python
+C:\Users\usuario\AppData\Roaming\LibreOffice\4\user\Scripts\python
